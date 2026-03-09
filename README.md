@@ -309,7 +309,7 @@ Potential extensions include:
 
 ---
 
-# What Hiring Managers Should Know
+# Concluding Remarks
 
 This project reflects a **realistic applied machine learning workflow**, including:
 
